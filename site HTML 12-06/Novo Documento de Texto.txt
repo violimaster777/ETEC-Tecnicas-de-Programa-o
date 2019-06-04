@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="estilo1.css">
+		<title>Evanescence</title>
+	<head>
+	<frameset cols="30%,70%">
+		<frame>
+			<frameset rows="20%,40%,40%">
+				<frame src="logo.jpg">
+				<frame src="menu.html">
+				<frame src="links.html">
+			</frameset>
+		</frame>
+		<frame>
+			<frameset rows="20%,80%">
+				<frame src="logo_2.html">
+				<frame id="principal" src="home.html">
+			</frameset>
+		</frame>
+	</frameset>
+</html>

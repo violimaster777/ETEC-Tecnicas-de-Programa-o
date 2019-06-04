@@ -1,0 +1,43 @@
+body{
+	background-image:url('fundo.jpg');
+}
+
+div{
+	background-color:black;
+	width:60vw;
+	height:-2vh;
+	margin:auto;
+}
+
+table{
+	background-image:url('fundo.jpg');
+}
+
+th{
+	color:white;
+	text-align:center;
+}
+
+a:link {
+  color: #9370DB; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: #FF0000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
