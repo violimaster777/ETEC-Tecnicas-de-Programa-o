@@ -1,0 +1,21 @@
+body{
+	background-image:url('zero.png');
+	background-repeat:repeat-x;
+}
+h3{
+	color:green;
+	text-align:center;
+	
+}
+a:link{
+	color:blue;
+}
+a:visited{
+	color:black;
+}
+a:hover{
+	color:red;
+}
+a:active{
+	color:yellow;
+}

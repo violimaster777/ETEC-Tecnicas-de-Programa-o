@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Teste CSS 1</title>
+	</head>
+	<body>
+		<h1>Formatação CSS 1</h1>
+		<p>Paragrafo</p>
+		<p>Outro paragrafo</p>
+	</body>
+</html>
